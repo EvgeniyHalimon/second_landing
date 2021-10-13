@@ -102,11 +102,11 @@ hr{
 }
 
 .banner{
-    background-image: url(/img/bc.png);
+    background-image: url(img/bc.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    padding-top: 159px;
+    padding-top: 204px;
     padding-bottom: 204px;
     color: #fff;   
 }
